@@ -16,6 +16,9 @@ MIT
 @angular/router
 MIT
 
+ng-image-fullscreen-view
+MIT
+
 ngx-owl-carousel-o
 MIT
 
